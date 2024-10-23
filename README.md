@@ -9,13 +9,12 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./readme-images/logo.png" />
 
-  <h2 align="center">GameX - Gaming website</h2>
+  <h2 align="center">Robots in the house - Game VR website</h2>
 
-  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Robots in the house es una pagina web de un juego VR, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -23,17 +22,13 @@
 
 ### Demo Screeshots
 
-![GameX Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![GameX Desktop Demo](./readme-images/poster.webp "Desktop Demo")
 
-### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
-To run **GameX** locally, run this command on your git bash:
+To run **Robots in the house** locally, run this command on your git bash:
 
 Linux and macOS:
 
