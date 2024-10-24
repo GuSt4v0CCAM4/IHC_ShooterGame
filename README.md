@@ -5,7 +5,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/logo.png" />
+  <img src="./readme-images/poster.webp" />
 
   <h2 align="center">Robots in the house - Game VR website</h2>
 
@@ -18,7 +18,9 @@
 
 ### Demo Screeshots
 
-![GameX Desktop Demo](./readme-images/poster.webp "Desktop Demo")
+![GameX Desktop Demo](./readme-images/Screen1.png "Desktop Demo")
+![GameX Desktop Demo](./readme-images/Screen2.png "Desktop Demo")
+![GameX Desktop Demo](./readme-images/Screen3.png "Desktop Demo")
 
 
 
